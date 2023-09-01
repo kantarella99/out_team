@@ -1,0 +1,24 @@
+.header {
+    @include center;
+    padding-bottom: 36px;
+}
+
+.header__subtitle {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: rgba(137, 143, 143, 1);
+    padding-bottom: 15px;
+}
+
+.header__title {
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 66px;
+    letter-spacing: 0em;
+    color: rgba(255, 204, 0, 1);
+    padding-bottom: 31.5px;
+}

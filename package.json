@@ -1,0 +1,11 @@
+ {
+  "name": "our_team",
+  "version": "1.0.0",
+  "description": "lesson sass",
+  "main": "index.html",
+  "scripts": {
+    "test": " "
+  },
+  "author": "K.Didenko",
+  "license": "ISC"
+}
